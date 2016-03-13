@@ -10,8 +10,8 @@ namespace HelloCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, CSharp");
-            Console.ReadKey();
+            Console.WriteLine("Hello, CSharp"); // Imprime en la consola.
+            Console.ReadKey(); // Espera que se presione una tecla para cerrar.
         }
     }
 }
