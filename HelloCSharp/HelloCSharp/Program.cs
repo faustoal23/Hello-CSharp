@@ -12,6 +12,7 @@ namespace HelloCSharp
         {
             Console.WriteLine("Hello, CSharp"); // Imprime en la consola.
             Console.ReadKey(); // Espera que se presione una tecla para cerrar.
+            Console.WriteLine("Stinger was here"); // Mi comment
         }
     }
 }
